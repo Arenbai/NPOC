@@ -6,6 +6,7 @@
 收集整理漏洞EXP/POC,大部分漏洞来源网络
 
 # 2026-11-18
+[泛微-云桥e-Bridge-checkMobile-SQL注入(XVE-2024-34435)](https://github.com/Arenbai/NPOC/blob/main/POC/%E6%B3%9B%E5%BE%AEOA/%E6%B3%9B%E5%BE%AE-%E4%BA%91%E6%A1%A5e-Bridge-checkMobile-SQL%E6%B3%A8%E5%85%A5(XVE-2024-34435).md)
 
 
 
