@@ -22,10 +22,7 @@ Content-Type: application/x-www-form-urlencoded
 Content-Length: 0
 ```
 
-![image-20261117153211910](泛微-云桥e-Bridge-checkMobile-SQL注入.assets/image-20261117153211910.png)
-
 # 四、修复建议
 
 1、关闭互联网暴露面或接口设置访问权限。
-
 2、升级至最新安全版本或打补丁。
